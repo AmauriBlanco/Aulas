@@ -1,0 +1,14 @@
+.whats {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    max-width: 900px;
+    margin: 0 auto;
+}

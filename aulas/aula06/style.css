@@ -1,0 +1,45 @@
+/* 
+ * => asterisco
+ seletor "universal"
+ aplica o estilo para todos os elementos
+*/
+
+/* 
+ raiz ou root
+ :root
+
+*/
+
+:root {
+    font-size: 18px;
+}
+
+*{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.titulo {
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+/* 
+    tamanho da fonte
+    1rem = 18px
+    0.5 = 9px
+    0.1rem = 1.6px
+*/
+/* 
+    rem -> root
+    em -> elemento pai
+*/
+
+.texto {
+    font-size: 1.2em;
+    font-weight: 700;
+    text-transform: lowercase;
+    text-decoration: overline underline;
+    text-align: left;
+    display: block;
+    text-indent: .5rem;
+}

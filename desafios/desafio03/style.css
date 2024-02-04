@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+}
+
+header {
+    background-color: brown;
+    padding: 15px 0;
+}
+
+header ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 1.5rem;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}

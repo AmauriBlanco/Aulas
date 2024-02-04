@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 20px auto;
+
+}
